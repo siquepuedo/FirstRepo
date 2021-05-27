@@ -1,2 +1,1 @@
 # FirstRepo
-React training files
